@@ -1,1 +1,3 @@
-# stylizer
+# Stylizer
+
+Object style library
